@@ -1,0 +1,44 @@
+/* RULES */
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+/* MAIN */
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.h4{
+    padding-top: 7%;
+}
+.cella  {
+      
+    width: 100%;
+}
+#tombolaInCelle {
+    
+    padding-inline: 30px;
+}
+.cellette {
+    text-align: center;
+    display:inline-block;
+    width: 6%;
+    height: 80px;
+    position: relative;
+    border: 1px solid;
+    border-radius: 10px;
+    cursor: pointer;
+    
+}
+#containerButton{
+    margin-top: 30px;
+}
+   
+/* FOOTER */
+
+
